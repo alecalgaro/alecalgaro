@@ -14,8 +14,6 @@
     <img align="center" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="linkedin" height="28px" width="28px"/>
   </a>
   
-</div>
-  
 <h4>TECNOLOGIAS UTILIZADAS</h4>
   <h5>Web</h5>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" height="28px" width="28px">
@@ -32,3 +30,5 @@
   <h5>Bases de datos</h5>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" height="28px" width="28px">
     <img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="firebase" height="28px" width="28px">
+
+  </div>
