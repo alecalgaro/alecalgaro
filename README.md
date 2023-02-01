@@ -1,6 +1,6 @@
 <h3 align="center">¡Hola 👋! Soy Alejandro Calgaro 👨🏻‍💻</h3>
 <p align="center">Soy <strong>Analista en Informática Aplicada</strong> y estudiante de <strong>Ingeniería en Informática<strong>.
-  <br />¡Puedes conocer más sobre mí o contactarme visitando mi <a href="https://alejandrocalgaro.netlify.app/">portfolio</a> o en mis redes sociales!</p>
+  <br />¡Puedes conocer más sobre mí o contactarme visitando mi <a href="https://alejandrocalgaro.com.ar">portfolio</a> o en mis redes sociales!</p>
 
 <div align="center">
    
