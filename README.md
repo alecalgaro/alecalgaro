@@ -18,6 +18,7 @@
   <h5>Web</h5>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" height="28px" width="28px">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" height="28px" width="28px">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" alt="tailwind" height="28px" width="28px">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" height="28px" width="28px">
     <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="28px" width="28px">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" height="28px" width="28px">
@@ -28,9 +29,12 @@
     <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png" alt="java" height="28px" width="28px">
    
   <h5>Bases de datos</h5>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" height="28px" width="28px">
-    <img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="firebase" height="28px" width="28px">
-    
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" height="38px" width="38px">
+    <img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="firebase" height="38px" width="38px">
+  
+  <h5>Testing</h5>
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="github" height="38px" width="38px">
+  
   <h5>Otras</h5>
     <img src="https://user-images.githubusercontent.com/59174208/189537606-03b589fd-88c4-4bfd-939a-b68b48509c95.png" alt="github" height="28px" width="28px">
     <img src="https://user-images.githubusercontent.com/59174208/189537624-59779b7d-c832-4d2c-a792-1cfb1217eff0.png" alt="github" height="28px" width="28px">
